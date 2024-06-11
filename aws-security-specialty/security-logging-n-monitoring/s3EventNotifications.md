@@ -1,0 +1,4 @@
+- event 
+- SQS
+- SNS 
+- AWS Lambda 

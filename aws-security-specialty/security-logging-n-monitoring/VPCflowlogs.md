@@ -1,0 +1,2 @@
+- record the traffic infromaton that is visiting the resouece 
+- record data about resouce connecting to which outbound endpoint 

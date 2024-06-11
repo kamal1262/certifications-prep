@@ -1,0 +1,3 @@
+- CodeGuru security is an ML and modern analysis based code scanning tool that finds security vulnerabilities. 
+- detects OWASO top 10 issues 
+- static application security testing (SAST)
