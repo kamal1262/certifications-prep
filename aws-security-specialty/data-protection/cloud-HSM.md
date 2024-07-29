@@ -1,0 +1,5 @@
+- Must be used within  Secure VPC access 
+- seperation of duties
+- Load balancing and high availability 
+- They are FIPS validated 
+- cloudHSM can be integrated with RDS or redshift. 
